@@ -4,14 +4,6 @@
 
 - 🌱 I’m currently learning advanced JavaScript frameworks and staying updated with Shopify Plus integrations to enhance eCommerce functionalities.
 
-- 💞️ I’m looking to collaborate on Shopify projects, custom themes, and frontend development with a focus on user-centered design.
-
-- 📫 How to reach me via LinkedIn or email at mayurmodi619@gmail.com.
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I’m based in Rajkot, Gujarat, and enjoy staying active in the web dev community, especially on topics around Shopify and UI design!
-
 
 
 <!---
